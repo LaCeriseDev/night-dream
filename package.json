@@ -1,0 +1,21 @@
+{
+    "name": "night-dream",
+    "displayName": "Night Dream",
+    "description": "dark, smooth, nice and convenient",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Night Dream",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Night Dream-color-theme.json"
+            }
+        ]
+    }
+}
